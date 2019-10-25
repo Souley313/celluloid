@@ -17,7 +17,7 @@
     "express-session": "^1.15.6",
     "extend": "^3.0.2",
     "js-yaml": "^3.13.1",
-    "knex": "^0.15.2",
+    "knex": "^0.20.0",
     "lodash": "^4.17.13",
     "mem": "^4.0.0",
     "nodemailer": "^4.6.7",
